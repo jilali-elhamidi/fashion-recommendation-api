@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+Pillow
+scikit-learn
+numpy
+tensorflow
+tensorflow-hub
+tqdm
+matplotlib
+scikit-image
