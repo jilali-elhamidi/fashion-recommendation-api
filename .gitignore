@@ -1,0 +1,21 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+.venv/
+
+# Jupyter Notebook checkpoint files (if you have .ipynb files)
+.ipynb_checkpoints/
+
+# IDE specific files (e.g., if you open this folder as a separate project in VS Code/PyCharm)
+.vscode/
+.idea/
+
+# Data/Models (if they are large and shouldn't be versioned, or managed via Git LFS)
+# /models/
+# /data/
